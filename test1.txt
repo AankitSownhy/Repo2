@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 808B-B0E7
+
+ Directory of C:\Users\Aankit_Sownhy\Desktop\My Project
+
+05-08-2020  07:43    <DIR>          .
+05-08-2020  07:43    <DIR>          ..
+05-08-2020  07:43                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  87,259,922,432 bytes free
